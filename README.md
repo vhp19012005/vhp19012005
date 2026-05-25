@@ -153,7 +153,7 @@
 <h3 align="center">🤝 Connect with me:</h3>
 
 <div align="center">
-  <a href="https://linkedin.com/in/Vaibhav-Patel" target="_blank">
+  <a href="https://www.linkedin.com/in/vaibhav-patel-159787285/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
   <a href="https://github.com/vhp19012005" target="_blank">
