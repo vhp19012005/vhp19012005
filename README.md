@@ -114,6 +114,42 @@
 
 ---
 
+<h2 align="center">🏆 Certifications & Achievements</h2>
+
+<table align="center">
+<tr>
+<th>Certificate</th>
+<th>Short Description</th>
+<th>Links</th>
+</tr>
+
+<tr>
+<td>🥇 IMPACTTHON @ KSV 2025</td>
+<td>Winner in Hackathon for Innovation & Prototype Development.</td>
+<td><a href="https://github.com/vhp19012005/vhp19012005/blob/main/impacthon.jpeg">View Certificate</a></td>
+</tr>
+
+<tr>
+<td>🤖 Generative AI Mastermind</td>
+<td>Completed Generative AI Mastermind Program by Outskill & GrowthSchool.</td>
+<td><a href="https://github.com/vhp19012005/vhp19012005/blob/main/outskill.pdf">View Certificate</a></td>
+</tr>
+
+<tr>
+<td>☕ NPTEL Programming In Java</td>
+<td>Elite certification from IIT Kharagpur with 82% score.</td>
+<td><a href="https://github.com/vhp19012005/vhp19012005/blob/main/Programming%20In%20Java.pdf">View Certificate</a></td>
+</tr>
+
+<tr>
+<td>💼 TCS iON Career Edge</td>
+<td>Completed professional skills and AI foundation course.</td>
+<td><a href="https://github.com/vhp19012005/vhp19012005/blob/main/Vaibhav%20Patel%20tcsion%20certificate.pdf">View Certificate</a></td>
+</tr>
+
+</table>
+
+
 <h3 align="center">🤝 Connect with me:</h3>
 
 <div align="center">
