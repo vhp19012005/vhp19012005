@@ -162,10 +162,10 @@
   <a href="https://kaggle.com/vhp1901" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&style=for-the-badge" height="35" alt="kaggle logo" />
   </a>
-  <a href="https://x.com/YOUR_TWITTER_USERNAME" target="_blank">
+  <a href="https://x.com/VaibhavPat72858" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="35" alt="twitter logo" />
   </a>
-  <a href="https://discord.com/users/YOUR_DISCORD_ID_OR_INVITE" target="_blank">
+  <a href="https://discord.com/vhp19012005" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="discord logo" />
   </a>
 </div>
