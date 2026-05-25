@@ -10,7 +10,7 @@
   <tr>
     <!-- Left Column: Profile Picture Card -->
     <td align="center" valign="middle" width="220">
-      <img src="https://joyous-red-cqlz9btzjn.edgeone.app/Pasted%20image.png" alt="Vaibhav Patel" width="180" height="180" style="border-radius: 50%; object-fit: cover; border: 3px solid #1b5e46;" />
+      <img width="298" height="294" alt="image" src="https://github.com/user-attachments/assets/444e351f-b5c7-4433-86ba-17dcb016d94d" />
     </td>
     <!-- Right Column: Welcome & Description Text -->
     <td align="left" valign="middle" style="padding-left: 20px;">
@@ -45,23 +45,17 @@
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td align="center" valign="middle" style="padding: 5px;">
-        <img src="URL_OF_YOUR_PHOTO_1" alt="ImpactThon 2026 Win" width="280" style="border-radius: 8px; border: 2px solid #1b5e46;" />
-        <br /><sub><strong>🏆 ImpactThon 2026 Champions</strong></sub>
+        <img src="https://github.com/user-attachments/assets/6554fb23-a10f-4c8d-8476-6cb812844a1b" alt="ImpactThon 2026 Win" width="280" style="border-radius: 8px; border: 2px solid #1b5e46;" />
       </td>
       <td align="center" valign="middle" style="padding: 5px;">
-        <img src="URL_OF_YOUR_PHOTO_2" alt="Hacking Session" width="280" style="border-radius: 8px; border: 2px solid #1b5e46;" />
-        <br /><sub><strong>💻 Building the Prototype</strong></sub>
+        <img src="https://github.com/user-attachments/assets/fde44c05-f3b1-49c3-a8dc-838b53e039ef" alt="Hacking Session" width="280" style="border-radius: 8px; border: 2px solid #1b5e46;" />
       </td>
       <td align="center" valign="middle" style="padding: 5px;">
-        <img src="URL_OF_YOUR_PHOTO_3" alt="Project Pitch" width="280" style="border-radius: 8px; border: 2px solid #1b5e46;" />
-        <br /><sub><strong>🚀 Pitching to the Judges</strong></sub>
+        <img src="https://github.com/user-attachments/assets/ac03b67e-dd22-45ec-a9f5-559d0bab99ae" alt="Project Pitch" width="280" style="border-radius: 8px; border: 2px solid #1b5e46;" />
       </td>
     </tr>
   </table>
 </div>
-
----
-
 
 ---
 
@@ -78,7 +72,6 @@
     </td>
     <td width="50%" valign="top">
       <h4>AI / Machine Learning</h4>
-     <h4>AI / Machine Learning</h4>
       <p>
 
   <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" height="40" />
@@ -106,9 +99,20 @@
   </tr>
 </table>
 
+
 ---
 
+### 🛠️ Featured Projects
 
+| Project Name | Short Description | 
+| :--- | :--- | 
+| **Hyperlocal Service Marketplace** | Connects users with nearby service providers using location-based search. |
+| **Sign Language Recognition** | Converts sign language gestures into text using AI and computer vision. | 
+| **Food Reels Platform** | Short-video platform for sharing food recipes and reels inspired by Instagram Reels/TikTok. | 
+| **Next Word Predictor** | Predicts the next word in a sentence using NLP and LSTM models. | 
+| **Movie Recommendation System** | Suggests movies based on user interests and preferences. | 
+
+---
 
 <h3 align="center">🤝 Connect with me:</h3>
 
