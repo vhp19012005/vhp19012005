@@ -39,6 +39,32 @@
 
 ---
 
+### 📸 Glimpses from Impacthon
+
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center" valign="middle" style="padding: 5px;">
+        <img src="URL_OF_YOUR_PHOTO_1" alt="ImpactThon 2026 Win" width="280" style="border-radius: 8px; border: 2px solid #1b5e46;" />
+        <br /><sub><strong>🏆 ImpactThon 2026 Champions</strong></sub>
+      </td>
+      <td align="center" valign="middle" style="padding: 5px;">
+        <img src="URL_OF_YOUR_PHOTO_2" alt="Hacking Session" width="280" style="border-radius: 8px; border: 2px solid #1b5e46;" />
+        <br /><sub><strong>💻 Building the Prototype</strong></sub>
+      </td>
+      <td align="center" valign="middle" style="padding: 5px;">
+        <img src="URL_OF_YOUR_PHOTO_3" alt="Project Pitch" width="280" style="border-radius: 8px; border: 2px solid #1b5e46;" />
+        <br /><sub><strong>🚀 Pitching to the Judges</strong></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+
+---
+
 <h3 align="center">🛠️ My Skills</h3>
 <table width="100%" align="center">
   <tr>
