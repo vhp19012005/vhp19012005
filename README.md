@@ -175,3 +175,14 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vhp19012005&theme=dark" alt="Vaibhav's Contribution Streak" />
 </p>
+
+
+### <div align="center">🕹️ Pacman Contribution Graph</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vhp19012005/vhp19012005/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vhp19012005/vhp19012005/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vhp19012005/vhp19012005/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
